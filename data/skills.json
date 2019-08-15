@@ -1,0 +1,29 @@
+[
+  {
+    "id":1,
+    "level":1,
+    "name":"Test Skill",
+    "description":"Deal damage and apply fear status on target.",
+    "mpConsume":15,
+    "castTime":1.25,
+    "reuseDelay":15.7,
+    "effects": [
+      "gameplayskills.mechanics.PhysDamage",
+      "gameplayskills.mechanics.Fear"
+    ]
+  },
+ {
+    "id":1,
+    "level":2,
+    "name":"Test Skill",
+    "description":"Deal damage and apply fear status on target.",
+    "mpConsume":15,
+    "castTime":1.33,
+    "reuseDelay":15.7,
+    "effects": [
+      "gameplayskills.mechanics.PhysDamage",
+      "gameplayskills.mechanics.Fear"
+    ]
+  }
+
+]
